@@ -1,0 +1,36 @@
+ 
+
+Customer Name:	Mr.Tharanga
+Billing Date:	15 / 2
+Billing Time:	02.12.PM
+
+Bought Items:-
+Item No. 1:	001. Bun
+			150.00
+Item No. 2:	002. Chiken
+			180.00
+Item No. 3:	005. Pizza
+			56.50
+
+Total:	386.50
+-------------------------------------------------------------------
+
+Customer Name:	2
+Billing Date:	2 / 2
+Billing Time:	2
+
+Bought Items:-
+Item No. 1:	002. Egg Rice
+			180.00
+Item No. 2:	001. Normal Rice
+			150.00
+Item No. 3:	005. Normal Kottu
+			226.00
+Item No. 4:	018. BUN
+			135.00
+Item No. 5:	015. String Hoppers
+			113.00
+
+Total:	804.00
+-------------------------------------------------------------------
+

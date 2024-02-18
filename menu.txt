@@ -1,0 +1,21 @@
+001. Normal Rice
+002. Egg Rice
+003. Chiken Rice
+004. Full Rice
+005. Normal Kottu
+006. Full Kottu
+007. Egg Kottu
+008. Fish Kottu
+009. Chiken Kottu
+010. Cheese Kottu
+011. Burger Mini
+012. Cheese Burger
+013. Hamburger
+014. Hoppers
+015. String Hoppers
+016. Parota
+017. T - BUN
+018. BUN
+019. Bread
+020. Rolls
+END OF LIST
