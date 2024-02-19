@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Basic Restaurant Billing System</h1>
-<h5 align="center">💠 1st Semester C language Project</h5>
+<h2 align="center">💠 1st Semester C language Project</h2>
 
 
 <p align="left">
@@ -20,13 +20,15 @@
 <br>
 <br>
 <h4>Choice 02</h4>
-<p></p>
+<p>In here, user should enter the customer details.</p>
 <img src = "3.png">
 <br>
 <br>
 <h4>Choice 03</h4>
+<p>Here is the bill</p>
 <img src = "4.png">
 <br>
 <br>
 <h4>Choice 04</h4>
+<P>This options shows the old bills</P>
 <img src = "5.png">
