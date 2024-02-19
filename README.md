@@ -24,7 +24,6 @@
 <img src = "3.png">
 <br>
 <br>
-<h4>Choice 03</h4>
 <p>Here is the bill</p>
 <img src = "4.png">
 <br>
@@ -33,6 +32,11 @@
 <img src = "5.png">
 <br>
 <br>
-<h4>Choice 05</h4>
+<h4>Choice 03</h4>
 <p>This options shows the old bills</p>
 <img src = "6.png">
+<br>
+<br>
+<h4>Choice 03</h4>
+<p>Clearing the Old Bills.</p>
+<img src = "7.png">
