@@ -29,6 +29,10 @@
 <img src = "4.png">
 <br>
 <br>
-<h4>Choice 04</h4>
-<P>This options shows the old bills</P>
+<P>Bill save option</P>
 <img src = "5.png">
+<br>
+<br>
+<h4>Choice 05</h4>
+<p>This options shows the old bills</p>
+<img src = "6.png">
